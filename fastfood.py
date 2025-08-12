@@ -20,7 +20,7 @@ print(f"Hello, {nombre}! Welcome to the restaurant. We have the following menu:"
 print("----------------------------------")
 for item in fast_food:  #loop in the menu
 
-    print(f"{item['name']} - ${item['price']:.2f}") #print the menu
+    print(f"{item['name']} - ${item['price']}") #print the menu
 
 print("----------------------------------")
 
