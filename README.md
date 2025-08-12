@@ -35,8 +35,8 @@ README.md            # Project documentation
 Make sure you have Python 3 installed.
 
 ### Download or clone this repository:
-git clone https://github.com/yourusername/fast_food_order.git
-cd fast_food_order
+- git clone https://github.com/yourusername/fast_food_order.git
+- cd fast_food_order
 
 ### Run the script:
 python fast_food_order.py
