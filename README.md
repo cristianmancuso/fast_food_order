@@ -42,8 +42,8 @@ Make sure you have Python 3 installed.
 python fast_food_order.py
 
 # 🎯 Learning Objectives
-This project helps practice:
-Data Structures: Lists & dictionaries
-Control Flow: Loops, conditionals
-Input Handling: Validation & formatting
-Basic Math: Multiplication and totals
+### This project helps practice:
+- Data Structures: Lists & dictionaries
+- Control Flow: Loops, conditionals
+- Input Handling: Validation & formatting
+- Basic Math: Multiplication and totals
